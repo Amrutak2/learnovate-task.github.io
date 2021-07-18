@@ -1,0 +1,136 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.nav_style {
+  position: absolute;
+  top: 61px;
+  color: #ffffff;
+}
+.dropdown-menu {
+  background-color: black;
+  opacity: 0.5;
+}
+
+.bg-img{
+  position: relative;
+  top: 0;
+  left: 0;
+}
+
+.top-menu-img-03 {
+  position: absolute;
+  left: 85px;
+  top: 10px;
+}
+
+.top-menu-img-05 {
+/*  position: absolute;
+  top: 0;
+  left: 750px;*/
+  line-height: 2.143;
+  text-align: right;
+  position: absolute;
+  left: 770px;
+  top: 10px;
+}
+
+.top-menu-img-07 {
+/*  position: absolute;
+  top: 0;
+  right: 220px;*/
+  line-height: 2.143;
+  text-align: right;
+  position: absolute;
+  left: 992.054px;
+  top: 10px;
+}
+
+.top-menu-img-09 {
+/*  position: absolute;
+  top: 0;
+  right: 0;*/
+  line-height: 2.143;
+  text-align: right;
+  position: absolute;
+  left: 1147.054px;
+  top: 10px;
+}
+
+.navbar-nav li a {
+  text-transform: uppercase;
+  font-family: "OpenSans";
+  font-size: 14px;
+  font-weight: 600;
+  letter-spacing: 2;
+  color: #ffffff;
+
+}
+
+.slider-title_06{
+  position: absolute;
+  left: 417px;
+  top: 206px;
+  width: 525px;
+  height: 130px;
+}
+
+.blogs{
+  position: absolute;
+  left: 593px;
+  top: 431px;
+  width: 178px;
+  height: 44px
+}
+
+.blogs h1 {
+  text-transform: capitalize;
+  color: #12A84E;
+  font-size: 35px;
+}
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 10%;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-whatsapp {
+  background: white;
+  color: black;
+}
+
+.fa-facebook {
+  background: white;
+  color: black;
+}
+
+.fa-twitter {
+  background: white;
+  color: black;
+}
+
+.fa-googleplus {
+  background: white;
+  color: black;
+}
+
+.fa-messenger{
+  background: white;
+  color: black;
+}
+
+.fa-skype {
+  background: white;
+  color: black;
+}
